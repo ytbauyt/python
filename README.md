@@ -1,2 +1,2 @@
 # Python
-Python Github Codespaces
+Python programming using Github Codespaces
